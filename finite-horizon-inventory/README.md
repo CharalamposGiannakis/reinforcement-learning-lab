@@ -78,3 +78,11 @@ Run the script with Python 3:
 ```bash
 python finite_horizon_inventory.py
 ```
+- It will compute the optimal policy and can simulate the system under that policy.
+
+---
+
+## Summary
+This project demonstrates how finite-horizon dynamic programming can be applied to a simple but
+realistic inventory problem with random demand and uncertain replenishment.
+The simulation results confirm that the computed policy performs optimally.
