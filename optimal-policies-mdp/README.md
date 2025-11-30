@@ -29,8 +29,6 @@ The problem is to:
 4. Run **simulation** to verify theoretical results.  
 5. Compare these methods and comment on consistency.  
 
-(Assignment description: two-component maintenance MDP with average reward.) :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## Method
@@ -68,10 +66,10 @@ Details, tables, and visualizations are provided in the accompanying report.
 
 ## Files
 
-- **two_component_mdp.py**  
+- **optimal_policies_mdp.py**  
   Python implementation of the transition matrix construction, stationary distribution computation, Poisson equation solution, and long-run simulation.
 
-- **Two_Component_MDP_Report.pdf**  
+- **Optimal_Policies_under_MDP_report.pdf**  
   Full report including:
   - model description  
   - transition structure  
