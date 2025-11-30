@@ -17,7 +17,6 @@ A dynamic programming solution to a seasonal inventory control problem with:
 - a 150-period selling horizon
 
 The project computes the optimal policy, verifies it via simulation, and analyzes policy structure.
-(Assignment description: seasonal product inventory DP) :contentReference[oaicite:3]{index=3}
 
 **Folder:** `finite-horizon-inventory`  
 **Contains:** Python implementation + full report (PDF)
@@ -33,9 +32,8 @@ Features:
 - solving via simulation, stationary distribution, and Poisson equation/value iteration
 
 The project determines optimal repair policies and compares multiple computation methods.
-(Assignment description: 2-component maintenance MDP) :contentReference[oaicite:4]{index=4}
 
-**Folder:** `two-component-mdp` *(to be added)*  
+**Folder:** `optimal-policies-mdp`   
 **Contains:** Python implementation + report
 
 ---
@@ -47,8 +45,6 @@ The project includes:
 - terminal condition logic
 - MCTS search structure (selection, expansion, simulation, backpropagation)
 - visualization of games and convergence analysis
-
-(Assignment description: MCTS project for tic-tac-toe) :contentReference[oaicite:5]{index=5}
 
 **Folder:** `mcts-tictactoe` *(to be added)*  
 **Contains:** Python implementation + report
