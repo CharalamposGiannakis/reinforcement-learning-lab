@@ -68,7 +68,7 @@ independent study, showcasing:
 - interpretation of policies and results,
 - and solid understanding of dynamic programming and simulation methods.
 
-More projects will be added as the Reinforcement Learning course progresses.
+More projects will be added in the future.
 
 ---
 
