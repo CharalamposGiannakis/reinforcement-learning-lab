@@ -87,3 +87,17 @@ Run the script using Python 3:
 ```bash
 python optimal_policies_mdp.py
 ```
+- **It will compute:**
+  - the transition matrix,
+  - the transition matrix,
+  - stationary distribution,
+  - average reward,
+  - and simulation results.
+
+---
+
+## Summary
+
+This project demonstrates how to analyze maintenance problems using average-reward MDP 
+tools, including linear algebra, simulation, and long-run performance measures.
+The results confirm that the theoretical methods and empirical simulation are fully consistent.
